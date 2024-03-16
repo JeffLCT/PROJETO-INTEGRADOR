@@ -59,9 +59,10 @@ Perfil
 
 <h1>PREPARAÇÃO</h1>
 
-## Para realização desta parte do projeto selecionamos as tecnologias utilizadas para Front e Backend
+## Para realização desta parte do projeto selecionamos as tecnologias utilizadas
 
 ### Front end
+
 *HTML
 *CSS
 
