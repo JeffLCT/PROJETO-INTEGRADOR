@@ -56,7 +56,7 @@ Garantir a segurança e a privacidade dos dados dos usuários é fundamental par
 
 Convencer os usuários da conveniência e dos benefícios do uso do aplicativo pode ser um desafio inicial, especialmente se já estiverem acostumados com métodos tradicionais de estacionamento;
 
-Manter e atualizar o aplicativo, além de fornecer suporte ao cliente, pode resultar em custos operacionais significativos, especialmente durante as fases iniciais de lançamento e crescimento;
+Manter e atualizar o aplicativo, além de fornecer suporte ao cliente, pode resultar em custos operacionais significativos, especialmente durante as fases iniciais de lançamento e crescimento.
 </ol>
 Superar essas dificuldades requer planejamento estratégico, colaboração com partes interessadas relevantes e um compromisso contínuo com a inovação e a excelência no serviço ao cliente.
 </h3>
