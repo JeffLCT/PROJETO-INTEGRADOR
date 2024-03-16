@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Cadastro Estabelecimento | Best Parking</title>
+        <!-- <link rel="stylesheet" href="/css/main.css"> -->    
+    </head>
+
+    <body>
+
+        <header>
+            <h2>Cadastre os dados do seu estabelecimento</h2>
+        </header>
+
+        <form action="/action_page.php">
+            <fieldset>
+                <legend>Dados cadastrais</legend>
+                <li><label for="nome">Nome</label></li>
+                <li><input type="text" placeholder="Digite a razão social"></li>
+                <br>
+                <li><label for="nomeFantasia">Fantasia</label></li>
+                <li><input type="text" placeholder="Digite o nome de fantasia"></li>
+                <br>
+                <li><label for="cnpj">CNPJ</label></li>
+                <li><input type="text" placeholder="Digite o CNPJ"></li>
+                <br>
+                <li><label for="inscricaoEstadual">Inscrição Estadual</label></li>
+                <li><input type="text" placeholder="Digite o número da IE"></li>
+                <br>
+                <li><label for="inscricaoMunicipal">Inscrição Municipal</label></li>
+                <li><input type="text" placeholder="Digite o número da IM"></li>
+                <br>             
+                <li><label for="contato">Telefone</label></li>
+                <li><input type="text" placeholder="Digite número de telefone"></li>
+                <br>  
+                <li><label for="email">E-mail</label></li>
+                <li><input type="email" placeholder="Digite o e-mail" id=""> </li>   
+
+            </fieldset>
+            <br>              
+            
+            <fieldset>
+                <legend>Endereço</legend>
+                <li>
+                <label for="cep">CEP</label>
+                <input type="text" placeholder="00000-000">
+                </li>
+
+                <li>
+                <label for="logradouro">Logradouro</label>
+                <input type="text" placeholder="Rua / Avenida">
+                <label for="numero">Número</label>
+                <input type="text" placeholder=" ">
+                </li>
+
+                <li>
+                <label for="bairro">Bairro</label>
+                <input type="text" placeholder=" ">
+                <label for="complemento">Complemento</label>
+                <input type="text" placeholder=" ">
+                </li>
+
+                <li>
+                <label for="cidade">Cidade</label>
+                <input type="text" placeholder=" ">
+                <label for="estado">Estado</label>
+                <input type="text" placeholder=" ">                
+                </li>   
+            </fieldset>
+            <br>
+
+            <fieldset>
+                <legend>Vagas disponíveis:</legend>
+                <li><label for="vagaAutomovel">Total Vagas Automóvel</label></li>
+                <li><input type="text" placeholder="Digite o total de vagas"></li>
+                <br>
+                <li><label for="vagaMotocicleta">Total Vagas Motocicleta</label></li>
+                <li><input type="text" placeholder="Digite o total de vagas"></li>              
+            </fieldset>
+            <br>  
+            <br>  
+
+            <div class="btn-edicao">
+                <input type="submit" value="Salvar">
+                <input type="reset" value="Cancelar">
+                <input type="button" value="Editar">
+                <input type="button" value="Excluir">
+            </div>
+        </form>
+    </body>
+</html>
