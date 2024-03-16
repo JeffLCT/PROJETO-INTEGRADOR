@@ -70,14 +70,15 @@ Perfil
 ### Backend
 
 
+
 ## Utilizamos tambem as seguintes ferramentas
-*Figma: para criação do protótipo
+* Figma: para criação do protótipo
 
-*Vscode:
+* Vscode:
 
-*Git:
+* Git:
 
-*Github:
+* Github:
 
 
 
