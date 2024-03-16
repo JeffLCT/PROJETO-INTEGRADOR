@@ -63,9 +63,9 @@ Perfil
 
 ### Front end
 
-*HTML
+* HTML
 
-*CSS
+* CSS
 
 ### Backend
 
