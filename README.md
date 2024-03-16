@@ -59,3 +59,20 @@ Perfil
 
 <h1>PREPARAÇÃO</h1>
 
+## Para realização desta parte do projeto selecionamos as tecnologias utilizadas para Front e Backend
+
+### Front end
+*HTML
+*CSS
+
+### Backend
+
+
+## Utilizamos tambem as seguintes ferramentas
+*Figma: para criação do protótipo
+*Vscode:
+*Git:
+*Github:
+
+
+
