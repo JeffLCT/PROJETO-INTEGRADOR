@@ -64,6 +64,7 @@ Perfil
 ### Front end
 
 *HTML
+
 *CSS
 
 ### Backend
@@ -71,9 +72,13 @@ Perfil
 
 ## Utilizamos tambem as seguintes ferramentas
 *Figma: para criação do protótipo
+
 *Vscode:
+
 *Git:
+
 *Github:
+
 
 
 
