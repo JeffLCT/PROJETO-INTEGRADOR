@@ -80,6 +80,34 @@ Perfil
 
 * Github:
 
+## Prova de conceito
 
+Nessa fase do projeto realizamos a prova de conceito do aplicativo
+
+### Produto
+
+O produto escolhido para criação foi um aplicativo para reserva de vagas em estacionamentos (BEST.Park)
+
+### Problema
+
+A procura de vagas em estacionamentos variados fica mais dificil com as cidades crescendo e não sendo voltadas para pedestres ou veiculos menores gerando inconveniencia e atrito entre motoristas e complicando a organização dos estacionamentos
+
+### Público alvo
+
+Motoristas e estacionamentos 
+
+### Recursos necessarios (materiais, permissões, expertise)
+
+
+
+### KPIs/criterios para sucesso
+
+
+
+### Escopo do projeto
+
+
+
+### Linha do tempo/entregas 
 
 
