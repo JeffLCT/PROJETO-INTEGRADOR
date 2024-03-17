@@ -108,15 +108,35 @@ Motoristas e estacionamentos
 * Equipe de marketing e promoção
 * Recursos de garantia de qualidade
 * Plataforma de lançamento
+* Manutenção e updates
   
 ### KPIs/criterios para sucesso
 
-* 
+* Taxas de conversão
+* Volume de reservas
+* Retenção de usuarios
+* Valor médio de reservas
+* Pontuaçao de satisfação do usuário
+* Downloads do app
+* Média de avaliação do app
+* Usuários ativos
+* Taxa de cancelamento de reservas
+* Horários de picos de uso
+* Custo de aquisição do usuário
 
 ### Escopo do projeto
 
 
 
 ### Linha do tempo/entregas 
+
+
+# Link para o video 
+
+O video a seguir é uma apresentação em formato _Pitch_ sobre o aplicativo desenvolvido BEST.Park
+
+
+
+# Instruções de descarga do script
 
 
