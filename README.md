@@ -126,9 +126,29 @@ Motoristas e estacionamentos
 
 ### Escopo do projeto
 
+São requisitos do projeto
 
+* A entrega  de: 
+  * Área de pagamento
+  * Menu de estabelecimentos que oferecem o serviço
+  * Menu de reserva de vagas com horários
+  * Sistema seguro para cadastro de clientes e estabelecimentos
+  * Tela de cadastro
+  * Tela de login
+  * Menu para registro de novas vagas
+  
+ 
+* Está fora do escopo:
+  *  Reserva de vagas consideradas Zona Azul
+  *  Reserva de vagas para não consumidores
+  *  REserva de serviços dentro do estabelecimento (ex: reserva de mesas em restaurantes)
 
 ### Linha do tempo/entregas 
+
+* Entrega em 12/12/2025
+
+## Link para o protótipo funcional do aplicativo
+
 
 
 # Link para o video 
