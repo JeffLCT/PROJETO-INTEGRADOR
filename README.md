@@ -149,7 +149,7 @@ São requisitos do projeto
 
 ## Link para o protótipo funcional do aplicativo
 
-[https://www.figma.com/file/zsHyW9W4aNrT2V6kwGWVfA/BEST.Park?type=design&node-id=0%3A1&mode=design&t=XiJedXdJFIRszSjW-1](url)
+![Protótipo](https://www.figma.com/file/zsHyW9W4aNrT2V6kwGWVfA/BEST.Park?type=design&node-id=0%3A1&mode=design&t=XiJedXdJFIRszSjW-1)
 
 # Link para o video 
 
