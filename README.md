@@ -110,7 +110,7 @@ Motoristas e estacionamentos
 * Plataforma de lançamento
 * Manutenção e updates
   
-### KPIs/criterios para sucesso
+### KPIs
 
 * Taxas de conversão
 * Volume de reservas
