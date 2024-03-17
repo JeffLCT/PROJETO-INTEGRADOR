@@ -98,11 +98,18 @@ Motoristas e estacionamentos
 
 ### Recursos necessarios (materiais, permissões, expertise)
 
-
-
+* Equipe de desenvolvimento
+* Equipamentos para criação do aplicativo incluindo softwares e hardware
+* Infraestrutura de Backend
+* Documentação e suporte
+* Equipe Legal
+* Equipe de marketing e promoção
+* Recursos de garantia de qualidade
+* Plataforma de lançamento
+  
 ### KPIs/criterios para sucesso
 
-
+* 
 
 ### Escopo do projeto
 
