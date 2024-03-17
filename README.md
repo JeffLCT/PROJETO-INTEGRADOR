@@ -141,7 +141,7 @@ São requisitos do projeto
 * Está fora do escopo:
   *  Reserva de vagas consideradas Zona Azul
   *  Reserva de vagas para não consumidores
-  *  REserva de serviços dentro do estabelecimento (ex: reserva de mesas em restaurantes)
+  *  Reserva de serviços dentro do estabelecimento (ex: reserva de mesas em restaurantes)
 
 ### Linha do tempo/entregas 
 
@@ -149,7 +149,7 @@ São requisitos do projeto
 
 ## Link para o protótipo funcional do aplicativo
 
-
+[https://www.figma.com/file/zsHyW9W4aNrT2V6kwGWVfA/BEST.Park?type=design&node-id=0%3A1&mode=design&t=XiJedXdJFIRszSjW-1](url)
 
 # Link para o video 
 
