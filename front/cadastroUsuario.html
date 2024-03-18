@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Cadastro Usuários | Best Parking</title>
+        <!-- <link rel="stylesheet" href="/css/main.css"> -->    
+    </head>
+
+    <body>
+        <p>Para começar digite seu email, usuário e senha ou se preferir cadastre-se pelo Google</p>
+        <form id="form-login" name="form-login" action="/action_page.php">             
+            <li><label for="usuario">Usuário</label></li>
+            <li><input type="text" placeholder="Digite o nome do usuário"></li>
+            <br>
+            <li><label for="nome">Nome</label></li>
+            <li><input type="text" placeholder="Digite seu nome"></li>
+            <br>
+            <li><label for="Sobrenome">Sobrenome</label></li>
+            <li><input type="text" placeholder="Digite seu sobrenome"></li>
+            <br>
+            <li><label for="cpf">CPF</label></li>
+            <li><input type="text" placeholder="Digite seu CPF"></li>
+            <br>
+            <li><label for="telefone">Telefone</label></li>
+            <li><input type="text" placeholder="Digite número de telefone"></li>
+            <br>
+            <li><label for="email">E-mail</label></li>
+            <li><input type="email" placeholder="Digite seu e-mail" id=""> </li>        
+            <br>  
+
+            <!--  --> 
+            <li><label for="senha">Senha</label></li>        
+            <li><input id="senha" type="password" placeholder="8 ou mais caracteres" required="required">
+                <span class="mostrar-senha" style="left: 87.5%;" onclick="mostrarSenha(this);">
+                    <img src="assets/icons/eye.svg" id="oppened" alt="exibir senha">
+                    <img src="assets/icons/eye-off.svg" id="closed" style="display:none" alt="ocultar senha">
+                </span>
+                <div id="validation"></div>
+            </li>
+                
+            <br>
+            <li><label for="ConfirmarSenha">Confirmar Senha</label></li>        
+            <li><input id="senha" type="password" placeholder="Digite a senha novamente" required="required"></li>
+            <br>
+            <li><input type="submit" value="Cadastrar"></li>   
+            <br>      
+            <li><input type="reset" value="Cancelar"></li> 
+        </form>
+    </body>
+</html>
