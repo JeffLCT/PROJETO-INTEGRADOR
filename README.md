@@ -151,10 +151,6 @@ São requisitos do projeto
 
 (https://www.figma.com/file/zsHyW9W4aNrT2V6kwGWVfA/BEST.Park?type=design&node-id=0%3A1&mode=design&t=XiJedXdJFIRszSjW-1)
 
-# Link para o video 
-
-O video a seguir é uma apresentação em formato _Pitch_ sobre o aplicativo desenvolvido BEST.Park
-
 
 
 # Instruções de descarga do script
