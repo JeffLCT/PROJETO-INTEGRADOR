@@ -51,11 +51,11 @@ Perfil
 <h3>Ao análisar o trabalho realizado no trimestre anterior, o grupo chegou a conclusão de que faltaram elementos importantes, como algumas telas relevantes:<h3/>
 <h3>Tela de Login</h3>
   
-![Login](https://github.com/JeffLCT/Estacionamento-teste/assets/104738281/b78950aa-45d1-4ce6-b856-e3001995ca00)
+![Login](https://github-production-user-asset-6210df.s3.amazonaws.com/104738281/313365204-b78950aa-45d1-4ce6-b856-e3001995ca00.PNG?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20240318%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240318T225213Z&X-Amz-Expires=300&X-Amz-Signature=c2eb4397a4e8c983294667719a0b160d1a0e0b32ba088636d6f43ffcb68dc8f4&X-Amz-SignedHeaders=host&actor_id=104738281&key_id=0&repo_id=768386905)
 
 <H3>Tela de Registro</H3>
 
-![Registro](https://github.com/JeffLCT/Estacionamento-teste/assets/104738281/c0e235fb-3530-468f-9828-02f0755a1fcf)
+![Registro]()
 
 <h1>PREPARAÇÃO</h1>
 
