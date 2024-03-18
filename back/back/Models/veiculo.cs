@@ -2,7 +2,7 @@
 
 namespace back.Models
 {
-    public class veiculo
+    public class Veiculo
     {
         [Key]
         [Required]

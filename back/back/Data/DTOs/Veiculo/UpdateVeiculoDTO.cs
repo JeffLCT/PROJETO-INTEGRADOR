@@ -2,7 +2,7 @@
 
 namespace back.Data.DTOs.Endereço
 {
-    public class UpdateVeiculooDTO
+    public class UpdateVeiculoDTO
     {
 
         [Key]

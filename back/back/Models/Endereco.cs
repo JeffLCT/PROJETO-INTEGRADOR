@@ -2,13 +2,15 @@
 
 namespace back.Models
 {
-    public class Endereço
+    public class Endereco
     {
 
         [Key]
         [Required]
         public int Id { get; set; }
 
+        [Required(ErrorMessage = "Logradouro Obrigatório")]
+        public string CEP { get; set; }
         [Required(ErrorMessage = "Logradouro Obrigatório")]
         public string Logradouro { get; set; }
 
