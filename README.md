@@ -153,6 +153,5 @@ São requisitos do projeto
 
 
 
-# Instruções de descarga do script
 
 
