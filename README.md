@@ -151,7 +151,9 @@ São requisitos do projeto
 
 (https://www.figma.com/file/zsHyW9W4aNrT2V6kwGWVfA/BEST.Park?type=design&node-id=0%3A1&mode=design&t=XiJedXdJFIRszSjW-1)
 
+# Vídeo do Projeto
 
+Para acessar o vídeo no youtube, acesse: (https://www.youtube.com/watch?v=hpFQiQqjFCU)
 
 
 
